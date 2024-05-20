@@ -1,5 +1,3 @@
-# buscaCep
-
 ## Descrição
 
 O **buscaCep** é uma aplicação simples desenvolvida em Java que permite aos usuários buscar informações de endereço utilizando um CEP (Código de Endereçamento Postal) brasileiro. A aplicação utiliza a API pública do ViaCEP para realizar as consultas e retorna dados como rua, bairro, cidade, estado, entre outros.
